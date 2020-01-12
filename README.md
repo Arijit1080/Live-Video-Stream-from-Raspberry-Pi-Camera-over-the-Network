@@ -29,7 +29,4 @@ Python3 pi_video_client.py server_ip port_no
 
 ## Acknowledgments
 
-* https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_gui/py_video_display/py_video_display.html
-
-
-
+* https://picamera.readthedocs.io/en/release-1.10/recipes1.html
